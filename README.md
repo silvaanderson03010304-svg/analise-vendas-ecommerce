@@ -38,4 +38,4 @@ Identificar os produtos, categorias e regiões mais rentáveis de um e-commerce 
 4. Execute as células em sequência
 
 ## 👤 Autor
-*(anderson)* — [LinkedIn](www.linkedin.com/in/anderson-silva254) | [GitHub](#)
+*(anderson)* — www.linkedin.com/in/anderson-silva254 | [GitHub](#)
