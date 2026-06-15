@@ -11,12 +11,22 @@ Identificar os produtos, categorias e regiões mais rentáveis de um e-commerce 
 - Google Colab / Jupyter Notebook
 
 ## 🔍 Análises realizadas
-- Receita total por categoria de produto
-- Receita total por estado (região)
-- Ticket médio geral, por pedido e por categoria
-- Sazonalidade (receita mensal)
-- Produtos mais vendidos
-- Frete médio por estado
+## 📊 Gráficos
+
+### Top 10 Categorias por Receita
+![Top 10 Categorias por Receita](top10_categorias_receita.png)
+
+### Top 10 Estados por Receita Total
+![Top 10 Estados por Receita](top10_estados_receita.png)
+
+### Ticket Médio por Categoria
+![Ticket Médio por Categoria](ticket_medio_categoria.png)
+
+### Receita Mensal (Sazonalidade)
+![Receita Mensal](vendas_mensais.png)
+
+### Frete Médio por Estado
+![Frete Médio por Estado](frete_medio_estado.png)
 
 ## 📈 Principais insights
 
