@@ -41,11 +41,6 @@ Identificar os produtos, categorias e regiões mais rentáveis de um e-commerce 
 5. **Frete:** os estados PB (Paraíba) e RR (Roraima) têm o frete médio mais alto, em torno de R$ 43,00 — bem acima da média nacional. Isso pode impactar negativamente a decisão de compra de clientes dessas regiões, já que o frete representa uma parcela significativa do valor do produto. Uma oportunidade seria negociar tarifas regionais com transportadoras ou criar promoções de frete grátis específicas para esses estados.
 
 ## 📁 Estrutura do repositório
-## 🚀 Como executar
-1. Baixe o dataset no [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-2. Abra o notebook no [Google Colab](https://colab.research.google.com)
-3. Faça upload dos arquivos CSV quando solicitado
-4. Execute as células em sequência
 
 ## 👤 Autor
 *(anderson)* — www.linkedin.com/in/anderson-silva254 | [GitHub](#)
